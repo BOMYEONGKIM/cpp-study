@@ -1,7 +1,7 @@
-##오늘의 문제
+## 오늘 푼 문제
 대소문자 바꿔서 출력하기
 
-##코드
+## 코드
 ```cpp
 #include <iostream>
 #include <string>
@@ -28,7 +28,7 @@ int main(void) {
     cout<<str;
     return 0;
 ```
-##배운점
+## 배운점
 - `string` : C++의 문자열 전용 자료형 (char 배열보다 편함)
 - `str.length()` : 문자열 길이 반환 (`strlen`과 동일한 역할)
 - `str[i]` : 문자열의 i번째 문자 접근 (배열과 동일)
